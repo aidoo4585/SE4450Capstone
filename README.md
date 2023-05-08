@@ -24,3 +24,7 @@ Usage
 
   For more info run a command with the --help flag
     $ npx expo start --help
+
+#Wireframe 
+
+<img width="1227" alt="image" src="https://user-images.githubusercontent.com/46071969/236847729-61dd493e-d4ff-4aa1-a3f6-22811f8f4d21.png">
